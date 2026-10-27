@@ -1,0 +1,182 @@
+{
+  "name": "CLAUX Production Asset System",
+  "version": "1.0.0",
+  "generatedBy": "brand/claux/scripts/build.mjs",
+  "canonicalSpecification": "CLAUX_BRAND_SYSTEM.md",
+  "geometry": {
+    "symbolViewBox": "0 0 272 256",
+    "lockupViewBox": "0 0 920 256",
+    "glyphsAreOutlined": true,
+    "externalFonts": false,
+    "crossbarFreeLambda": true
+  },
+  "palette": {
+    "deepBlueGreen": "#0D4547",
+    "goldenAmber": "#D99A2B",
+    "clayParchment": "#F2E2C8",
+    "workshopCocoa": "#3B2E2A",
+    "mutedTerracotta": "#A65F45",
+    "eucalyptusMist": "#9BB8AD"
+  },
+  "assets": [
+    {
+      "path": "svg/claux-primary-light.svg",
+      "sha256": "a3daa69964b636036a19e7bef068066b64cb8c91e87e0a776c8be8674fc0c127",
+      "role": "primary horizontal lockup on a warm light surface",
+      "intendedBackground": "Clay Parchment or equivalent warm light neutral",
+      "minimumSize": "120px wide"
+    },
+    {
+      "path": "svg/claux-reverse-cocoa.svg",
+      "sha256": "00c9855d4469c8a6fe7c3ad93877af0400dac56039d9b9949061175e8cd74196",
+      "role": "reverse horizontal lockup on Workshop Cocoa",
+      "intendedBackground": "Workshop Cocoa",
+      "minimumSize": "120px wide"
+    },
+    {
+      "path": "svg/claux-compact-primary.svg",
+      "sha256": "dc3f5dbc8277e3e51dc3495ece3f9391ef79013ff56d8c6a3a06d489ac39e6b7",
+      "role": "compact navigation lockup on a warm light surface",
+      "intendedBackground": "Clay Parchment or equivalent warm light neutral",
+      "minimumSize": "120px wide"
+    },
+    {
+      "path": "svg/claux-compact-reverse.svg",
+      "sha256": "cd752c082e53b773624cc8d69cafdb3319086ff3249000a18e4fe20f632e6a73",
+      "role": "compact navigation lockup on Workshop Cocoa",
+      "intendedBackground": "Workshop Cocoa",
+      "minimumSize": "120px wide"
+    },
+    {
+      "path": "svg/claux-maker-primary.svg",
+      "sha256": "1748e9450c21baf08fd0b756206d1f6f71d87df6afba3311fe1f249ca03d3d86",
+      "role": "Made by CLAUX creator endorsement on a warm light website footer",
+      "intendedBackground": "Clay Parchment or equivalent warm light neutral",
+      "minimumSize": "180px wide"
+    },
+    {
+      "path": "svg/claux-maker-reverse.svg",
+      "sha256": "63eb9608a208809c66c56ad5e9d132801874eea23b6e262b54372ea0c90ee9a2",
+      "role": "Made by CLAUX creator endorsement on Workshop Cocoa",
+      "intendedBackground": "Workshop Cocoa",
+      "minimumSize": "180px wide"
+    },
+    {
+      "path": "svg/claux-maker-monochrome-dark.svg",
+      "sha256": "f5f7c47660f9d353f789f6ded395e7a2cdbc93a276cba945587d1eb57f333979",
+      "role": "one-color Made by CLAUX creator endorsement for light website footers",
+      "intendedBackground": "White or Clay Parchment",
+      "minimumSize": "180px wide"
+    },
+    {
+      "path": "svg/claux-maker-monochrome-light.svg",
+      "sha256": "f00044c1474b94309f50438986a20a2f2858641e4a5a69f6a1c4d371af59d251",
+      "role": "one-color Made by CLAUX creator endorsement for dark website footers",
+      "intendedBackground": "Workshop Cocoa or black",
+      "minimumSize": "180px wide"
+    },
+    {
+      "path": "svg/claux-symbol-primary.svg",
+      "sha256": "fe7846cf3abfd6439b2212bcc8fe0ed651288e8ed7d1124d8ee6830642592a52",
+      "role": "primary symbol on a warm light surface",
+      "intendedBackground": "Clay Parchment or equivalent warm light neutral",
+      "minimumSize": "24px square"
+    },
+    {
+      "path": "svg/claux-symbol-reverse.svg",
+      "sha256": "7d4a51eb31c94bc015d7d7fcf0ac335ee708480cd754e1c249f996d115e49332",
+      "role": "reverse symbol on Workshop Cocoa",
+      "intendedBackground": "Workshop Cocoa",
+      "minimumSize": "24px square"
+    },
+    {
+      "path": "svg/claux-symbol-micro-primary.svg",
+      "sha256": "8dfc1bc48cae6453a56a324795acffac74f77cbae5a7173dbf85933f40331d53",
+      "role": "simplified primary symbol for 16 to 32 pixel rendering",
+      "intendedBackground": "Clay Parchment or equivalent warm light neutral",
+      "minimumSize": "16px square"
+    },
+    {
+      "path": "svg/claux-symbol-micro-reverse.svg",
+      "sha256": "f353f5020cd2f0e257f40438d25daae7713f606d9c6d720a42cda2c51722649a",
+      "role": "simplified reverse symbol for 16 to 32 pixel rendering",
+      "intendedBackground": "Workshop Cocoa",
+      "minimumSize": "16px square"
+    },
+    {
+      "path": "svg/claux-monochrome-dark.svg",
+      "sha256": "7e92bf786a8fb716165f78fb9f45af5f15f6dac3fe80055f9d0fd04fb18718a1",
+      "role": "one-color horizontal lockup for light surfaces and fabrication",
+      "intendedBackground": "White or Clay Parchment",
+      "minimumSize": "120px wide"
+    },
+    {
+      "path": "svg/claux-monochrome-light.svg",
+      "sha256": "7d278c0df4d95b7bebe228dbb486efc35d87fdbffb657ddd2a5b7d9b1d9c6803",
+      "role": "one-color horizontal lockup for dark surfaces and fabrication",
+      "intendedBackground": "Workshop Cocoa or black",
+      "minimumSize": "120px wide"
+    },
+    {
+      "path": "svg/claux-symbol-monochrome-dark.svg",
+      "sha256": "e16adfc7a56c7805e9c6f4663613591fb49c6ba66ed9979c6b08cb22bd1e041d",
+      "role": "one-color symbol for light surfaces and fabrication",
+      "intendedBackground": "White or Clay Parchment",
+      "minimumSize": "24px square"
+    },
+    {
+      "path": "svg/claux-symbol-monochrome-light.svg",
+      "sha256": "eb23082385d5b42dc265da1731f8c77fc412bc2458f40a908a8d591d3757ab18",
+      "role": "one-color symbol for dark surfaces and fabrication",
+      "intendedBackground": "Workshop Cocoa or black",
+      "minimumSize": "24px square"
+    },
+    {
+      "path": "svg/claux-favicon.svg",
+      "sha256": "659a83bf896aa4981c9c7e8eccb30c16b99de40ebc4f181ea25fe4a772659392",
+      "role": "favicon and small digital avatar",
+      "intendedBackground": "Self-contained Workshop Cocoa tile",
+      "minimumSize": "24px square"
+    },
+    {
+      "path": "svg/claux-app-icon-light.svg",
+      "sha256": "293b5d70f2a8e03afa13c36107d3f9251522294dce9074f39612638f73136712",
+      "role": "light app icon and profile avatar",
+      "intendedBackground": "Self-contained Clay Parchment tile",
+      "minimumSize": "48px square"
+    },
+    {
+      "path": "applications/claux-clay-slab.svg",
+      "sha256": "853dc5e0c00a0b844a07064d80784c02914272565c1db6696063d27352ecc382",
+      "role": "deterministic clay slab application reference",
+      "intendedBackground": "Self-contained Muted Terracotta slab",
+      "minimumSize": "600px wide"
+    }
+  ],
+  "supportingFiles": [
+    {
+      "path": "tokens/claux-brand.tokens.json",
+      "sha256": "6ee40efe4229a641b888f52bce10165be2dc82a35a89d6676f321be4e450e461"
+    },
+    {
+      "path": "tokens/claux-brand.css",
+      "sha256": "bc8072a0890f5bf2ff26299ab2d7e02f71bddcc035f04008db896af0bb1f5f1a"
+    },
+    {
+      "path": "previews/claux-asset-sheet.svg",
+      "sha256": "68dcf9bce1a595f15342337e382c2b650a5a9be221809bcb016f27112a5b793c"
+    },
+    {
+      "path": "previews/index.html",
+      "sha256": "cccf4502f7d490c5ed31129f761eaf7150f21cd68ed3395f2f06963d6b4c1970"
+    },
+    {
+      "path": "previews/small-scale.html",
+      "sha256": "e2a96dbd226e63d1ad68fc2d1550c1990496915bfd20717b2fab1ef8ac32d6b6"
+    },
+    {
+      "path": "previews/maker-mark.html",
+      "sha256": "3cb8945f02c909d1098b722f80a54dff75b9f1a7d93bcd2b00fb610b778dec25"
+    }
+  ]
+}

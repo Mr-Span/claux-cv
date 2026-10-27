@@ -1,0 +1,6 @@
+* text=auto eol=lf
+public/brand/** -text
+*.glb -text
+*.png -text
+*.webp -text
+*.woff2 -text

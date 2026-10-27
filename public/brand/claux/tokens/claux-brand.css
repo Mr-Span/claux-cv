@@ -1,0 +1,16 @@
+/** CLAUX Brand Tokens v1.0.0 — generated deterministically. */
+:root {
+  --claux-deep-blue-green: #0D4547;
+  --claux-golden-amber: #D99A2B;
+  --claux-clay-parchment: #F2E2C8;
+  --claux-workshop-cocoa: #3B2E2A;
+  --claux-muted-terracotta: #A65F45;
+  --claux-eucalyptus-mist: #9BB8AD;
+
+  --claux-logo-primary: var(--claux-deep-blue-green);
+  --claux-logo-accent: var(--claux-golden-amber);
+  --claux-logo-reverse: var(--claux-eucalyptus-mist);
+  --claux-surface-light: var(--claux-clay-parchment);
+  --claux-surface-dark: var(--claux-workshop-cocoa);
+  --claux-material-clay: var(--claux-muted-terracotta);
+}

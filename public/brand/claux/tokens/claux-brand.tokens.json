@@ -1,0 +1,65 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "name": "CLAUX Brand Tokens",
+  "version": "1.0.0",
+  "claux": {
+    "color": {
+      "deep-blue-green": {
+        "$type": "color",
+        "$value": "#0D4547",
+        "$description": "Primary mark and typography on light surfaces."
+      },
+      "golden-amber": {
+        "$type": "color",
+        "$value": "#D99A2B",
+        "$description": "Signature Lambda and controlled emphasis."
+      },
+      "clay-parchment": {
+        "$type": "color",
+        "$value": "#F2E2C8",
+        "$description": "Primary warm light surface."
+      },
+      "workshop-cocoa": {
+        "$type": "color",
+        "$value": "#3B2E2A",
+        "$description": "Primary dark surface and monochrome mark."
+      },
+      "muted-terracotta": {
+        "$type": "color",
+        "$value": "#A65F45",
+        "$description": "Clay material cue and restrained supporting accent."
+      },
+      "eucalyptus-mist": {
+        "$type": "color",
+        "$value": "#9BB8AD",
+        "$description": "Approved reverse tint on Workshop Cocoa."
+      }
+    },
+    "semantic": {
+      "logo-primary": {
+        "$type": "color",
+        "$value": "{claux.color.deep-blue-green}"
+      },
+      "logo-accent": {
+        "$type": "color",
+        "$value": "{claux.color.golden-amber}"
+      },
+      "logo-reverse": {
+        "$type": "color",
+        "$value": "{claux.color.eucalyptus-mist}"
+      },
+      "surface-light": {
+        "$type": "color",
+        "$value": "{claux.color.clay-parchment}"
+      },
+      "surface-dark": {
+        "$type": "color",
+        "$value": "{claux.color.workshop-cocoa}"
+      },
+      "material-clay": {
+        "$type": "color",
+        "$value": "{claux.color.muted-terracotta}"
+      }
+    }
+  }
+}

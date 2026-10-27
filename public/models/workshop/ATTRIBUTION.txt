@@ -1,0 +1,21 @@
+Drag Cable Chain(s)
+Original author: Sergiu_I
+Source: https://www.thingiverse.com/thing:3668667/files
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+Downloaded: 2026-10-27
+
+Original STL files, unchanged:
+- Main_Link_75x15.stl
+- Chain_End_Link_75x15_01.stl
+- Chain_End_Link_75x15_02.stl
+
+The JSON files and PNG cross sections are local geometric analysis of the
+original triangle meshes, prepared for fitting adapters to this laser project.
+They are not an author-issued engineering drawing or a printed-fit validation.
+STL has no embedded units; analysis interprets coordinates as millimetres for
+the original model at 100% scale. Do not transfer one end's mounting pattern
+to the other end: their slot spacing differs.
+
+These are reference parts from the chain author, not the custom laser
+controller enclosure, frame adapters, or material support under development.

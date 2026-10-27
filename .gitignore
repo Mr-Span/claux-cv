@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.prerender/
+.env
+.env.*
+*.local
+*.tsbuildinfo
+.DS_Store
+GPT/
+.qa/

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 256" role="img" aria-labelledby="title desc" data-claux-asset="claux-symbol-micro-primary" shape-rendering="geometricPrecision">
+  <title id="title">CLAUX micro primary symbol</title>
+  <desc id="desc">Simplified CLAUX enclosing C and crossbar-free Lambda symbol for 16 to 32 pixel rendering.</desc>
+  <g data-part="symbol-micro">
+    <path data-part="enclosing-c" fill="#0D4547" d="M240 38H222C217 38 213 36 209 32L204 27C200 23 195 20 188 20H132C69 20 18 68 18 128C18 188 69 236 132 236H188C195 236 200 233 204 229L209 224C213 220 217 218 222 218H240C246 218 250 214 250 208V196C250 190 246 186 240 186H214C208 186 203 188 199 192L193 198C190 202 186 204 181 204H132C88 204 52 170 52 128C52 86 88 52 132 52H181C186 52 190 54 193 58L199 64C203 68 208 70 214 70H240C246 70 250 66 250 60V50C250 42 246 38 240 38Z"/>
+    <path data-part="lambda" fill="#D99A2B" d="M130 76L75 187H101L130 125L159 187H185Z"/>
+  </g>
+</svg>

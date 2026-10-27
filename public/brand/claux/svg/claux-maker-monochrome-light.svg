@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 128" role="img" aria-labelledby="title desc" data-claux-asset="claux-maker-monochrome-light" shape-rendering="geometricPrecision">
+  <title id="title">Made by CLAUX monochrome light creator mark</title>
+  <desc id="desc">Made by CLAUX creator endorsement for website footers.</desc>
+  <g data-part="maker-label" fill="#F2E2C8" fill-rule="evenodd" transform="translate(14 49) scale(1.7)">
+    <path data-label-letter="m" d="M0 18V0H3L7 8L11 0H14V18H11V5L8.5 11H5.5L3 5V18Z"/>
+    <path data-label-letter="a" transform="translate(17)" d="M0 18L4.8 0H8.2L13 18H9.8L8.9 14H4.1L3.2 18ZM4.8 11H8.2L6.5 4.5Z"/>
+    <path data-label-letter="d" transform="translate(33)" d="M0 0H6C10 0 12 2.5 12 6V12C12 15.5 10 18 6 18H0ZM3 3V15H5.8C7.9 15 9 13.8 9 11.8V6.2C9 4.2 7.9 3 5.8 3Z"/>
+    <path data-label-letter="e" transform="translate(48)" d="M0 0H11V3H3V7.5H10V10.5H3V15H11V18H0Z"/>
+    <path data-label-letter="b" transform="translate(69)" d="M0 0H6C9.8 0 11.5 1.8 11.5 4.6C11.5 6.7 10.5 8 8.8 8.8C10.9 9.5 12 11 12 13.2C12 16.2 10 18 6.2 18H0ZM3 3V7.5H5.7C7.6 7.5 8.5 6.8 8.5 5.2C8.5 3.8 7.6 3 5.7 3ZM3 10.5V15H6C8 15 9 14.2 9 12.8C9 11.3 8 10.5 6 10.5Z"/>
+    <path data-label-letter="y" transform="translate(84)" d="M0 0H3.5L6.5 6.5L9.5 0H13L8 10V18H5V10Z"/>
+  </g>
+  <rect data-part="maker-separator" x="178" y="40" width="2" height="48" rx="1" fill="#F2E2C8" opacity=".32"/>
+  <g data-part="claux-compact-lockup" transform="translate(190 0) scale(.82)">
+  <g data-part="symbol" transform="scale(.5)">
+    <path data-part="enclosing-c" fill="#F2E2C8" d="M240 38H222C217 38 213 36 209 32L204 27C200 23 195 20 188 20H132C69 20 18 68 18 128C18 188 69 236 132 236H188C195 236 200 233 204 229L209 224C213 220 217 218 222 218H240C246 218 250 214 250 208V196C250 190 246 186 240 186H214C208 186 203 188 199 192L193 198C190 202 186 204 181 204H132C88 204 52 170 52 128C52 86 88 52 132 52H181C186 52 190 54 193 58L199 64C203 68 208 70 214 70H240C246 70 250 66 250 60V50C250 42 246 38 240 38Z"/>
+    <path data-part="lambda" fill="#F2E2C8" transform="translate(23.4 10.6) scale(.82 .92)" d="M130 72C120 72 116 78 112 88L78 172C75 180 70 185 62 186L60 192H101L103 186C94 184 92 179 95 171L130 92L165 171C168 179 166 184 157 186L159 192H200L198 186C190 185 185 180 182 172L148 88C144 78 140 72 130 72Z"/>
+  </g>
+  <g data-part="wordmark" transform="translate(-18 -7) scale(.55)">
+    <path data-letter="c" fill="#F2E2C8" d="M388 76H326C307 76 296 88 296 106V150C296 168 307 180 326 180H388V158H330C322 158 318 154 318 146V110C318 102 322 98 330 98H388Z"/>
+    <path data-letter="l" fill="#F2E2C8" d="M416 76H438V151C438 156 442 158 447 158H510V180H444C426 180 416 170 416 152Z"/>
+    <path data-letter="lambda" fill="#F2E2C8" transform="translate(490 16) scale(.84)" d="M130 72C120 72 116 78 112 88L78 172C75 180 70 185 62 186L60 192H101L103 186C94 184 92 179 95 171L130 92L165 171C168 179 166 184 157 186L159 192H200L198 186C190 185 185 180 182 172L148 88C144 78 140 72 130 72Z"/>
+    <path data-letter="u" fill="#F2E2C8" d="M682 76H704V147C704 155 710 159 719 159H740C749 159 755 155 755 147V76H777V149C777 169 764 180 742 180H717C695 180 682 169 682 149Z"/>
+    <path data-letter="x" fill="#F2E2C8" d="M803 76H830L852 104L875 76H902L866 128L903 180H876L852 151L829 180H802L839 128Z"/>
+  </g>
+  </g>
+</svg>
