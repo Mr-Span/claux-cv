@@ -122,7 +122,7 @@ export function CaseStudyPage({ slug, onNavigate }: CaseStudyPageProps) {
           </section>
         </div>
         <div className="case-outcome">
-          <h2>What this work connects</h2>
+          <h2>{project.outcomeHeading ?? "What this work connects"}</h2>
           <p>{project.outcome}</p>
           <ul aria-label="Technology and engineering focus">
             {project.technologies.map((technology) => (

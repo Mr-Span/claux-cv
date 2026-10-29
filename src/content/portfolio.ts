@@ -1,7 +1,7 @@
 export const profile = {
   brand: "CLAUX",
   name: "Claudiu Șpan",
-  role: "Agentic AI & Automation Engineer",
+  role: "Applied AI & Automation Engineer",
   location: "Romania",
   linkedin: "https://ro.linkedin.com/in/claudiuspan",
   github: "https://github.com/Mr-Span",
@@ -23,7 +23,7 @@ export const navItems = [
 export const proofItems = [
   {
     label: "Automation impact",
-    value: "Stakeholder-led delivery across 40+ automations",
+    value: "40+ distinct workflows delivered end to end",
   },
   { label: "Current role", value: "Automation Engineer at Betfair" },
   { label: "Venture", value: "Co-Founder at QUADYX" },
@@ -126,7 +126,7 @@ export const systems: Array<{
     body: "Understand stakeholder needs, identify the right opportunities, design the solution, build it, and support it in production.",
     role: "Automation Engineer / Solution Partner",
     outcome:
-      "40+ automations shaped around stakeholder value, reliable delivery, and corporate time saved.",
+      "40+ distinct workflows delivered from stakeholder discovery and AS-IS/TO-BE design through implementation and hypercare.",
     tags: ["UiPath", "Python", "SQL", "REST APIs", "LLM agents", "n8n"],
     availability: "Private implementation — public overview",
   },

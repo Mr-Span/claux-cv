@@ -10,6 +10,7 @@ export type CaseStudy = {
   problem: string;
   contribution: string;
   approach: string;
+  outcomeHeading?: string;
   outcome: string;
   evidence: string;
   evidenceLabel: string;
@@ -24,37 +25,49 @@ export const cases: CaseStudy[] = [
     slug: "automation",
     index: "01",
     title: "Enterprise automation",
-    summary: "From operational needs to reliable workflows.",
+    summary: "Production AI summaries with human review.",
     role: "Automation Engineer",
     mediaAlt:
       "A stylized robot in the CLAUX atelier, illustrating software automation.",
     problem:
-      "A repeatable business process still needs clear rules, reliable integrations and a way to handle incomplete information. Automation has to fit the people who operate it.",
+      "Customer-profile review involved collecting and checking information across three platforms and running eight Redshift scripts, alongside the existing process. The earlier workflow refreshed data twice a day. Reviewers needed current information and a summary in one place.",
     contribution:
-      "At Betfair Romania Development, I guide automation from stakeholder discovery and opportunity shaping through solution design, implementation, human review and production feedback.",
+      "I built the UiPath Studio Web review application with populated data, charts, reports and tables; two key RPA processes; Maestro orchestration; and LLM agent prompts, validations and tests. This production case is part of my wider delivery of 40+ distinct automation workflows, from stakeholder discovery and AS-IS/TO-BE design through implementation and hypercare.",
     approach:
-      "Understand the operational need, define ownership and validation rules, connect the relevant systems, and make exceptions visible. Human review remains part of the workflow when information or a decision needs attention.",
+      "RPA collects current information and LLM agents prepare summaries. Maestro coordinates the workflow, while Studio Web presents the data and summaries for an operator to check and approve. Customer PII is processed within the enterprise environment.",
+    outcomeHeading: "Production outcome",
     outcome:
-      "Maintainable workflows that support day-to-day operations, with clear exception paths and people responsible for the critical decisions.",
+      "Approximately 70% less operator time spent collecting and verifying data, compared with the previous process across the three platforms, Redshift scripts and existing workflow. This is a reported operational result about manual effort. Reviewers receive current data instead of relying on two scheduled daily refreshes.",
     evidence:
-      "My public professional profile provides the role context. The atelier demonstrates a request, validation, execution and human-review sequence using illustrative data. Client and employer implementation details remain private.",
-    evidenceLabel: "Professional overview · Illustrative demo",
+      "The anonymized case study documents my contribution, the workflow and the scope of the reported result. Customer data, employer implementation details and production screenshots remain private. The atelier scene illustrates the review concept using demonstration data.",
+    evidenceLabel: "Production case · Anonymized account · Illustrative scene",
     externalLink: {
-      label: "View professional profile",
-      href: "https://ro.linkedin.com/in/claudiuspan",
+      label: "Read the case study",
+      href: "https://github.com/Mr-Span/Mr-Span/blob/main/case-studies/customer-profile-summarization.md",
     },
     sources: [
+      {
+        label: "Anonymized case study",
+        href: "https://github.com/Mr-Span/Mr-Span/blob/main/case-studies/customer-profile-summarization.md",
+      },
       {
         label: "Professional profile",
         href: "https://ro.linkedin.com/in/claudiuspan",
       },
     ],
-    technologies: ["UiPath", "Python", "SQL", "REST APIs", "Agentic workflows"],
+    technologies: [
+      "UiPath RPA",
+      "Studio Web",
+      "Maestro",
+      "LLM agents",
+      "Amazon Redshift",
+      "Human-in-the-loop",
+    ],
     steps: [
-      "Understand the request",
-      "Validate the data",
-      "Execute the workflow",
-      "Review exceptions",
+      "Collect current data",
+      "Prepare AI summaries",
+      "Review data and reports",
+      "Approve the information",
     ],
   },
   {
@@ -84,7 +97,7 @@ export const cases: CaseStudy[] = [
       { label: "GitHub profile", href: "https://github.com/Mr-Span" },
       {
         label: "Portfolio source",
-        href: "https://github.com/Mr-Span/claudiu-span-portfolio",
+        href: "https://github.com/Mr-Span/claux-cv",
       },
     ],
     technologies: ["React", "TypeScript", "Vite", "REST APIs", "Codex", "MCP"],

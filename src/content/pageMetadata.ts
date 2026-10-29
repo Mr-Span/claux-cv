@@ -1,5 +1,5 @@
 const defaultDescription =
-  "Claudiu Șpan is an Agentic AI and Automation Engineer building human-controlled automation, AI products, and autonomous systems.";
+  "Claudiu Șpan is an Applied AI and Automation Engineer building production workflows, LLM agents and human-reviewed systems.";
 
 export const pageMetadata: Record<
   string,
@@ -11,7 +11,8 @@ export const pageMetadata: Record<
   },
   "/work/automation": {
     title: "Enterprise automation | Claudiu Șpan · CLAUX",
-    description: defaultDescription,
+    description:
+      "A production UiPath case: Studio Web human review, Maestro orchestration and AI profile summaries, with approximately 70% less reported manual collection and verification time.",
   },
   "/work/code": {
     title: "Software & AI products | Claudiu Șpan · CLAUX",
